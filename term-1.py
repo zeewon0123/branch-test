@@ -6,7 +6,7 @@ import sys
 # step1 : set screen, fps
 
 pygame.init()
-pygame.display.set_caption('Jumping dino')
+pygame.display.set_caption('Jumping dog')
 MAX_WIDTH = 800
 MAX_HEIGHT = 400
 
